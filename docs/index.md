@@ -17,10 +17,11 @@
 I love shipping real AI products: agentic systems, LLMs and AI apps.
 
 
-## Deep Research (DDG‑Powered Agentic Pipeline)
+## Overview - Deep Research (DDG‑Powered Agentic Pipeline)
 
 A small but complete **agentic research pipeline** that:
 
+- illustrates how thinking models work (eg. o3, deep research etc)
 - plans focused web searches,
 - gathers high‑signal snippets via **DuckDuckGo** (ddgs),
 - synthesizes a long‑form **Markdown report** with inline citations,
