@@ -1,4 +1,23 @@
-# Deep Research (DDG‑Powered Agentic Pipeline)
+<!-- Personal hero -->
+<div align="center" style="margin: 0 0 1.25rem 0;">
+  <h1 style="margin-bottom: .25rem;">👋 Hi, I’m <span style="white-space:nowrap;">Saket Garodia</span></h1>
+  <p style="max-width: 720px;">
+    I’m passionate about building AI apps, agentic workflows, and everything AI — from search & synthesis
+    pipelines to production-ready LLM tooling.
+  </p>
+  <p>
+    <a class="btn" href="https://www.linkedin.com/in/saket-garodia/" target="_blank" rel="noopener">Connect on LinkedIn</a>
+    <a class="btn" href="https://github.com/garodisk/Deep-Research-App" target="_blank" rel="noopener">View this project</a>
+  </p>
+</div>
+
+---
+
+## About me
+I love shipping real AI products: agentic systems, LLMs and AI apps.
+
+
+## Deep Research (DDG‑Powered Agentic Pipeline)
 
 A small but complete **agentic research pipeline** that:
 
